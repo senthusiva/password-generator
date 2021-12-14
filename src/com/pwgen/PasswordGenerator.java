@@ -82,6 +82,7 @@ public class PasswordGenerator {
 		return shuffleString(password);
 	}
 
+	/*
 	public static void main(String[] args) {
 		while (true) {
 			Scanner sc = new Scanner(System.in);
@@ -115,4 +116,5 @@ public class PasswordGenerator {
 			}
 		}
 	}
+	*/
 }
